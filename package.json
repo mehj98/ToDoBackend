@@ -1,0 +1,19 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehj98/ToDoBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehj98/ToDoBackend/issues"
+  },
+  "homepage": "https://github.com/mehj98/ToDoBackend#readme"
+}
